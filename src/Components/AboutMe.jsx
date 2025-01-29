@@ -16,7 +16,7 @@ function AboutMe() {
     { image: js, name: "JavaScript" },
     { image: bootstrap, name: "Bootstrap" },
     { image: reactjs, name: "React JS" },
-    { image: tailwind, name: "Tailwind CSS" }
+    { image: tailwind, name: "Tailwind" }
   ];
 
   return (
